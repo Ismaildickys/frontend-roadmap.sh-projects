@@ -45,3 +45,6 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 ## License
 This project is open-source. Feel free to use and modify as needed.
+
+## Project page URL
+https://roadmap.sh/projects/single-page-cv
