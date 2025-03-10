@@ -1,5 +1,3 @@
-Here's a concise README.md file for your HTML CV project:
-
 ```markdown
 # HTML CV Project
 
