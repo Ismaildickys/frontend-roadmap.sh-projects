@@ -12,10 +12,10 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
-  <a href="/frontend-roadmap.sh-projects/single-page-cv/">
+  <a href="./single-page-cv/">
     <img width="48%" src="./single-page-cv/assets/images/screenshot-single-page-cv.png" alt="single page cv" />
   </a>
-  <a href="/frontend-roadmap.sh-projects/basic-html-website/">
+  <a href="./basic-html-website/">
     <img width="48%" src="./basic-html-website/assets/images/screenshot-basic-html-website.png" alt="basic html website" />
   </a>
 </p>
